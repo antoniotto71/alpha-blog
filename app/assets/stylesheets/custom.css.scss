@@ -1,0 +1,25 @@
+@import 'node_modules/bootstrap/dist/css/bootstrap.css';
+
+$enable-transitions: true;
+
+.navbar {
+  background-color: black !important
+}
+
+.nav-link {
+  color: white !important
+}
+
+#logo {
+  float: left;
+  color: white;
+  font-size: 1.7em;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+#home-container {
+  margin-top: 25px;
+}
+
