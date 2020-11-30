@@ -23,3 +23,11 @@ $enable-transitions: true;
   margin-top: 25px;
 }
 
+.jumbotron {
+  background-image: asset_url('aaron-burden-y02jEX_B0O0-unsplash.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  color: white;
+  text-align: right;
+}
