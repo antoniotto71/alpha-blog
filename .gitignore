@@ -40,4 +40,5 @@
 yarn-debug.log*
 .yarn-integrity
 
-/.idea/*
+.idea/*
+.idea/workspace.xml
